@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Mitr&family=Noto+Sans+Thai:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Mitr&family=Prompt&display:wght@100&display=swap");
  
 body {
     background-color: rgb(173, 216, 230);
   font-family: "Mitr", sans-serif;
-  font-family: "Noto Sans Thai", sans-serif;
+  font-family: 'Prompt', sans-serif;
   margin: 0;
   padding: 0;
 }
